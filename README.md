@@ -21,14 +21,7 @@
 - Папки IDE (`.vs/`, `.idea/`)
 
 Полный список смотрите в [файле .gitignore](.gitignore).
-
-Технологический стек  
-- ASP.NET Core Web API  
-- SignalR (реальная доставка сообщений)  
-- PostgreSQL (основная база данных)  
-- Entity Framework Core (ORM)  
-- JWT-аутентификация + BCrypt  
-- Swagger (документация API)  
+  
 ## Технологический стек  
 - **Платформа**: .NET 8  
 - **Архитектура**: MVVM (Model-View-ViewModel)  
