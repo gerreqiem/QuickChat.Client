@@ -5,11 +5,11 @@
 ## Скриншоты интерфейса  
 | Вкладка | Изображение | Описание |  
 |---------|-------------|----------|  
-| Регистрация | (![photo_2025-06-10_19-01-30](https://github.com/user-attachments/assets/37a25ee7-5943-4882-92f0-c5198d845877) | Создание нового аккаунта |  
-| Авторизация | (![photo_2025-06-10_19-01-37](https://github.com/user-attachments/assets/c8e9d552-b889-4c43-ab56-586812b1fd8b) | Вход в систему |  
-| Пользователи | (![photo_2025-06-10_19-01-44](https://github.com/user-attachments/assets/da0de824-86fd-424f-8279-b02294fe6c69) | Управление контактами |  
-| Чаты | (![photo_2025-06-10_19-01-49](https://github.com/user-attachments/assets/64080ccc-da65-4378-a82e-612ec4f0b45b) | Список активных диалогов |  
-| Сообщения | (![photo_2025-06-10_19-01-55](https://github.com/user-attachments/assets/b4db1a9a-4e6c-48e6-a688-98d9f0c4e767) | Переписка в реальном времени | 
+| Регистрация | ![photo_2025-06-10_19-01-30](https://github.com/user-attachments/assets/37a25ee7-5943-4882-92f0-c5198d845877) | Создание нового аккаунта |  
+| Авторизация | ![photo_2025-06-10_19-01-37](https://github.com/user-attachments/assets/c8e9d552-b889-4c43-ab56-586812b1fd8b) | Вход в систему |  
+| Пользователи | ![photo_2025-06-10_19-01-44](https://github.com/user-attachments/assets/da0de824-86fd-424f-8279-b02294fe6c69) | Управление контактами |  
+| Чаты | ![photo_2025-06-10_19-01-49](https://github.com/user-attachments/assets/64080ccc-da65-4378-a82e-612ec4f0b45b) | Список активных диалогов |  
+| Сообщения | ![photo_2025-06-10_19-01-55](https://github.com/user-attachments/assets/b4db1a9a-4e6c-48e6-a688-98d9f0c4e767) | Переписка в реальном времени | 
 
 ## Исключенные файлы (gitignore)
 Проект использует стандартный `.gitignore` для .NET, который исключает:
